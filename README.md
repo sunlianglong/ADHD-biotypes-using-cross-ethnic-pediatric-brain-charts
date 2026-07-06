@@ -96,7 +96,7 @@ Please note that individual-level cortical thickness and derived cortical thickn
 
 ## Model
 
-The `Model` folder contains pretrained pediatric normative models used in this study.
+The `Model` folder contains the pretrained pediatric normative models used in this study. These models can be applied to estimate individual-level cortical thickness deviations for participants from new sites using `PCNtoolkit` (https://pcntoolkit.readthedocs.io/en/latest/) [2].
 
 1. **Chinese pediatric brain chart**
 
